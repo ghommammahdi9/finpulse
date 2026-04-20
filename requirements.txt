@@ -1,0 +1,8 @@
+reportlab
+pandas
+pdfplumber
+streamlit
+plotly
+anthropic
+python-dotenv
+Faker
